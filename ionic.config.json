@@ -1,6 +1,8 @@
 {
   "name": "e-AML_tabs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "8ae59393"
 }
